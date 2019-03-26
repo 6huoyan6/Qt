@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="RC_FILE">C:/Users/Administrator/Documents/beat_4/RC_FILE</file>
+<file alias="=">C:/Users/Administrator/Documents/beat_4/=</file>
+<file alias="myapp.rc">C:/Users/Administrator/Documents/beat_4/myapp.rc</file>
+</qresource>
+</RCC>

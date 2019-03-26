@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>loveicon.rc</file>
+        <file>loveicon.ico</file>
+        <file>background.png</file>
+        <file>dlgback.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
